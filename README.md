@@ -4,4 +4,5 @@ Development of a mouse video analyser. Created as part of our Team Software Engi
 Written using Python, openCV2
 
 Example of a processed frame:
+
 <img width="360" height="240" alt="20080321154304_gb_411-bounded - frame at 0m0s" src="https://github.com/user-attachments/assets/e19a7fc0-8c88-477c-9765-412a205b698b" />
